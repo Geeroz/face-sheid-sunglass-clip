@@ -8,3 +8,5 @@ Simple clip design to convert eyeglass or sunglass to face shield
 * any material that can be cutted to shape
 
 ![Image of face shield design](https://github.com/Geeroz/face-sheid-sunglass-clip/blob/master/faceshield_image.png)
+
+![Sample face shield Image](https://github.com/Geeroz/face-sheid-sunglass-clip/blob/master/front%20sample.jpg)
